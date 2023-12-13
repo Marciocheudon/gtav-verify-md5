@@ -1,4 +1,5 @@
-gtav-verify-md5
+#gtav-verify-md5
+
 🐍 A Python script to check GTA V's MD5 files. If any are corrupted, it will warn you. Just download the correct file from the internet and replace it. 🐍
 
 GTA V File Integrity Checker
