@@ -1,5 +1,5 @@
-# gtav-verify-md5
-🐍 A python script to check the game's GTA V md5 files if any are corrupted, it will warn you, just download it from the internet and change it. 🐍 
+gtav-verify-md5
+🐍 A Python script to check GTA V's MD5 files. If any are corrupted, it will warn you. Just download the correct file from the internet and replace it. 🐍
 
 GTA V File Integrity Checker
 This Python script is used to verify the integrity of GTA V game files. It compares MD5 codes of .rpf files against a predefined list to ensure the files are not corrupted.
@@ -16,15 +16,18 @@ Open a terminal or command prompt.
 Navigate to the directory where the script is saved.
 Run the script using the command: python main.py.
 When prompted, enter the path to the GTA V folder.
-
 Contributions
 Contributions to improve the script are always welcome. Feel free to fork the repository and submit your pull requests.
 
+Screenshots
+Program Start
+<p align="center">
+  <img src="https://github.com/Marciocheudon/gtav-verify-md5/assets/56776494/12b1c28e-29b5-4a9c-bf2f-2a51c7cf4be6" alt="Program Start">
+</p>
+Error
+<p align="center">
+  <img src="https://github.com/Marciocheudon/gtav-verify-md5/assets/56776494/80d467b4-70a9-46b0-b45c-d8a3f9c360d1" alt="Error">
+</p>
+License
 CH3UD0N
 
-
-ERROR:
-![hqdefault](https://github.com/Marciocheudon/gtav-verify-md5/assets/56776494/80d467b4-70a9-46b0-b45c-d8a3f9c360d1)
-
-PROGRAM START:
-![WhatsApp Image 2023-12-13 at 16 04 31](https://github.com/Marciocheudon/gtav-verify-md5/assets/56776494/12b1c28e-29b5-4a9c-bf2f-2a51c7cf4be6)
